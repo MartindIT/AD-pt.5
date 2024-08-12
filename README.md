@@ -22,7 +22,6 @@ https://www.youtube.com/watch?v=J356fczLPfc&list=PLrbMZfjq8xh0PR_X6Odkw6mfiRb8m3
 - VMware Workstation Pro (Virtual Machines/Compute)
 - Active Directory Domain Services
 - Microsoft Server 2022
-- Group Policy Management
 - File Server Resource Manager
 
 <h2>Operating Systems Used </h2>
