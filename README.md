@@ -8,7 +8,7 @@
 
 </p>
 
-<h1>Connecting a VM to a Domain & Verifying Group Policies </h1>
+<h1>Setting up a File Network Share on Windows Server </h1>
 This Video Project Shows how I connect a file share over the domain and Implement the basics of File Server Resource Manager  <br />
 
 <h1> VIDEO </h1>
